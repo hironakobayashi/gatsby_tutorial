@@ -1,15 +1,15 @@
+import { graphql } from "gatsby"
 import React from "react"
-import AllRecipes from "../components/AllRecipes"
 import Layout from "../components/Layout"
+import Gallery from "../examples/Gallery"
 
-const Recipes = () => {
+const Testing = () => {
   return (
     <Layout>
       <main className="page">
-        <AllRecipes />
+        <Gallery />
       </main>
     </Layout>
   )
 }
-
-export default Recipes
+export default Testing
