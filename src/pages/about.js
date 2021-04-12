@@ -21,11 +21,6 @@ const About = ({
               Schlitz synth listicle succulents gastropub mumblecore normcore
               portland pabst farm-to-table chambray umami.
             </p>
-            <p>
-              Tousled yuccie twee small batch hammock, tilde tacos knausgaard
-              literally kale chips taiyaki enamel pin neutra yr vice. Four
-              dollar toast stumptown blue bottle church-key.
-            </p>
             <Link to="/contact" className="btn">
               contact
             </Link>
